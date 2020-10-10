@@ -1,0 +1,10 @@
+throughput         = 730510:27,313 = 26745,872 byte/s
+                     1 bytes = 8 bit
+                     26745,872 x 8 = 213966,975
+packet lost/ error = 0%
+                     Tidak ada data yang gagal terkirim
+delay              = ~ Total delay = 27209622,97
+                     ~ rata rata delay = 1211,794
+Jitter             = ~ Total Jitter = 46946,9955
+                     ~ rata rata jitter = 20,9118
+                 
